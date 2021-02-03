@@ -8,6 +8,6 @@ I'm currently working on my programming skills to become a remote full-stack dev
 Looking for opportunities to contribute in open-source projects related to: 
 - 🔭 education technology
 -  :musical_note: music & arts
--  :herb: sustainability. 
+-  :herb: sustainability
 
 If you have a cool project that involves one or more of these topics, reach me on [Twitter]( https://twitter.com/_alicia_paz).
