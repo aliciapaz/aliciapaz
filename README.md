@@ -1,5 +1,6 @@
-### Hi there, I'm aliciapaz 👋
+### Hi there, I'm Alicia Paz 👋
 
+I'm a natural resources engineer, musician and self-taught software developer.
 I enjoy learning new technologies and languages.
 I'm currently working on my programming skills to become a remote full-stack developer.
 
@@ -10,4 +11,4 @@ Looking for opportunities to contribute in open-source projects related to:
 -  :musical_note: music & arts
 -  :herb: sustainability
 
-If you have a cool project that involves one or more of these topics, reach me on [Twitter]( https://twitter.com/_alicia_paz).
+If you have a cool project that involves one or more of these topics, reach me on [Twitter]( https://twitter.com/_alicia_paz) or [Linkedin](https://www.linkedin.com/in/aliciapazrojas/).
