@@ -4,7 +4,7 @@ I'm a natural resources engineer, musician, and self-taught software developer.
 I enjoy learning new technologies and languages.
 I'm currently working on my programming skills to become a remote developer.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliciapaz)](https://github.com/anuraghazra/github-readme-stats)
+[![aliciapaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliciapaz)](https://github.com/aliciapaz)
 
 Looking for opportunities to contribute in open-source projects related to: 
 - 🔭 education technology
