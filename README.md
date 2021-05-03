@@ -6,7 +6,7 @@ I'm currently working on my programming skills to become a remote developer.
 
 ![Aliciapaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliciapaz&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliciapaz)](https://github.com/aliciapaz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliciapaz&layout=compact&theme=dark)](https://github.com/aliciapaz)
 
 Interested in open-source projects related to: 
 - 🔭 education
