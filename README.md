@@ -8,9 +8,9 @@ I'm currently working on my programming skills to become a remote developer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliciapaz)](https://github.com/aliciapaz)
 
-Looking for opportunities to contribute in open-source projects related to: 
-- 🔭 education technology
+Interested in open-source projects related to: 
+- 🔭 education
 -  :musical_note: music & arts
--  :herb: sustainability
+-  :herb: applied ecology
 
-If you have a cool project that involves one or more of these topics, reach me on [Twitter]( https://twitter.com/_alicia_paz) or [Linkedin](https://www.linkedin.com/in/aliciapazrojas/).
+Reach me on [Twitter]( https://twitter.com/_alicia_paz) or [Linkedin](https://www.linkedin.com/in/aliciapazrojas/).
