@@ -1,7 +1,7 @@
 ### Hi there, I'm Alicia Paz 👋
 
 I'm a natural resources engineer, musician, and self-taught software developer.
-I enjoy learning new technologies and languages.
+I enjoy learning and helping others to learn.
 I'm currently working on my programming skills to become a remote developer.
 
 ![Aliciapaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliciapaz&show_icons=true&theme=radical)
