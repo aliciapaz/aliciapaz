@@ -1,5 +1,5 @@
 ### I'm Alicia Paz 🌱 🎹 👩‍💻
-I'm a natural resources engineer, musician, and self-taught software developer.
+I'm a natural resources engineer, musician, and self-taught full-stack developer.
 I enjoy learning and helping others to learn.
 I'm currently looking for opportunities to work remotely as a software developer.
 
