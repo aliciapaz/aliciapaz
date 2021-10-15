@@ -5,6 +5,4 @@ Currently contributing to [Public Lab](https://github.com/publiclab), an open-so
 
 ![Aliciapaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliciapaz&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliciapaz&layout=compact&theme=dark)](https://github.com/aliciapaz)
-
 Reach me on [Twitter]( https://twitter.com/_alicia_paz) or [Linkedin](https://www.linkedin.com/in/aliciapazrojas/).
