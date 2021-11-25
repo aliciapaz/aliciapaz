@@ -1,5 +1,5 @@
 ### I'm Alicia Paz 🌱 🎹 👩‍💻
-I'm a natural resources engineer, musician, and self-taught full-stack developer.
+I'm a natural resources engineer, musician, and self-taught software developer.
 I enjoy learning and helping others to learn.
 Currently contributing to [Public Lab](https://github.com/publiclab), an open-source community for DIY environmental investigation.
 
